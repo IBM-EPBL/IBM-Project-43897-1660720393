@@ -13,4 +13,4 @@ Plasma Donor Application
 ![Request](screenshot/request.png)
 ![About](screenshot/about.png)
 ![Database-1](screenshot/db1.png)
-![Database-2](screenshot/Screenshot (177).png.png)
+![Database-2](screenshot/db2.png)
