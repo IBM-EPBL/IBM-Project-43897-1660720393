@@ -8,9 +8,9 @@ Plasma Donor Application
 
 ## Screenshots
 
-![Login](screenshot/login.png) ![Signup](Screenshots/signin.png)
+![Login](screenshot/login.png) ![Signup](screenshot/signin.png)
 ![Reports](screenshot/reports.png)
 ![Request](screenshot/request.png)
 ![About](screenshot/about.png)
 ![Database-1](screenshot/db1.png)
-![Database-2](screenshot/db2.png)
+![Database-2](screenshot/Screenshot (177).png.png)
